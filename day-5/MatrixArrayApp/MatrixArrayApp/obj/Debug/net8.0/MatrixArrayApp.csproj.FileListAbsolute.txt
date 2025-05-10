@@ -1,0 +1,14 @@
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.exe
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.deps.json
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.runtimeconfig.json
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.dll
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\bin\Debug\net8.0\MatrixArrayApp.pdb
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.AssemblyInfoInputs.cache
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.AssemblyInfo.cs
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.csproj.CoreCompileInputs.cache
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.dll
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\refint\MatrixArrayApp.dll
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.pdb
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\MatrixArrayApp.genruntimeconfig.cache
+C:\SR-training-apps\codes\day-5\MatrixArrayApp\MatrixArrayApp\obj\Debug\net8.0\ref\MatrixArrayApp.dll

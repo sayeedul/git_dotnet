@@ -1,0 +1,11 @@
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\obj\Debug\net8.0\PayrollApp_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\obj\Debug\net8.0\PayrollApp_Entities.AssemblyInfoInputs.cache
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\obj\Debug\net8.0\PayrollApp_Entities.AssemblyInfo.cs
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\obj\Debug\net8.0\PayrollApp_Entities.csproj.CoreCompileInputs.cache
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\bin\Debug\net8.0\PayrollApp_Entities.deps.json
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\bin\Debug\net8.0\PayrollApp_Entities.dll
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\bin\Debug\net8.0\PayrollApp_Entities.pdb
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\obj\Debug\net8.0\PayrollApp_Entities.dll
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\obj\Debug\net8.0\refint\PayrollApp_Entities.dll
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\obj\Debug\net8.0\PayrollApp_Entities.pdb
+C:\SR-training-apps\codes\day-5\PayrollApp\PayrollApp_Entities\obj\Debug\net8.0\ref\PayrollApp_Entities.dll

@@ -1,0 +1,14 @@
+C:\SR-training-apps\codes\day-1\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\SR-training-apps\codes\day-1\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\SR-training-apps\codes\day-1\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\SR-training-apps\codes\day-1\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\SR-training-apps\codes\day-1\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\SR-training-apps\codes\day-1\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\SR-training-apps\codes\day-1\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\SR-training-apps\codes\day-1\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\SR-training-apps\codes\day-1\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\SR-training-apps\codes\day-1\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\SR-training-apps\codes\day-1\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\SR-training-apps\codes\day-1\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\SR-training-apps\codes\day-1\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\SR-training-apps\codes\day-1\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

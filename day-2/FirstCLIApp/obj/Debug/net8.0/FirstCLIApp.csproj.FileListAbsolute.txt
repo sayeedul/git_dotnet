@@ -1,0 +1,14 @@
+C:\SR-training-apps\codes\day-2\FirstCLIApp\bin\Debug\net8.0\FirstCLIApp.exe
+C:\SR-training-apps\codes\day-2\FirstCLIApp\bin\Debug\net8.0\FirstCLIApp.deps.json
+C:\SR-training-apps\codes\day-2\FirstCLIApp\bin\Debug\net8.0\FirstCLIApp.runtimeconfig.json
+C:\SR-training-apps\codes\day-2\FirstCLIApp\bin\Debug\net8.0\FirstCLIApp.dll
+C:\SR-training-apps\codes\day-2\FirstCLIApp\bin\Debug\net8.0\FirstCLIApp.pdb
+C:\SR-training-apps\codes\day-2\FirstCLIApp\obj\Debug\net8.0\FirstCLIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SR-training-apps\codes\day-2\FirstCLIApp\obj\Debug\net8.0\FirstCLIApp.AssemblyInfoInputs.cache
+C:\SR-training-apps\codes\day-2\FirstCLIApp\obj\Debug\net8.0\FirstCLIApp.AssemblyInfo.cs
+C:\SR-training-apps\codes\day-2\FirstCLIApp\obj\Debug\net8.0\FirstCLIApp.csproj.CoreCompileInputs.cache
+C:\SR-training-apps\codes\day-2\FirstCLIApp\obj\Debug\net8.0\FirstCLIApp.dll
+C:\SR-training-apps\codes\day-2\FirstCLIApp\obj\Debug\net8.0\refint\FirstCLIApp.dll
+C:\SR-training-apps\codes\day-2\FirstCLIApp\obj\Debug\net8.0\FirstCLIApp.pdb
+C:\SR-training-apps\codes\day-2\FirstCLIApp\obj\Debug\net8.0\FirstCLIApp.genruntimeconfig.cache
+C:\SR-training-apps\codes\day-2\FirstCLIApp\obj\Debug\net8.0\ref\FirstCLIApp.dll

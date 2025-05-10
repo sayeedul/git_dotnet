@@ -1,0 +1,11 @@
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\bin\Debug\net8.0\MessengerLibrary.deps.json
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\bin\Debug\net8.0\MessengerLibrary.dll
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\bin\Debug\net8.0\MessengerLibrary.pdb
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\obj\Debug\net8.0\MessengerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\obj\Debug\net8.0\MessengerLibrary.AssemblyInfoInputs.cache
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\obj\Debug\net8.0\MessengerLibrary.AssemblyInfo.cs
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\obj\Debug\net8.0\MessengerLibrary.csproj.CoreCompileInputs.cache
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\obj\Debug\net8.0\MessengerLibrary.dll
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\obj\Debug\net8.0\refint\MessengerLibrary.dll
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\obj\Debug\net8.0\MessengerLibrary.pdb
+C:\SR-training-apps\codes\day-2\LibraryDemo\MessengerLibrary\obj\Debug\net8.0\ref\MessengerLibrary.dll
