@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{1A94AE10-66B2-46B6-B0A6-7CB38B513B1E}|PayrollApp.UserInterface\\PayrollApp.UserInterface.csproj|solutionrelative:payrollapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DCA0E3A5-04C2-4000-ACCE-E6A79431155D}|PayrollApp_Entities\\PayrollApp.Entities.csproj|c:\\sr-training-apps\\codes\\day-5\\payrollapp\\payrollapp_entities\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA0E3A5-04C2-4000-ACCE-E6A79431155D}|PayrollApp_Entities\\PayrollApp.Entities.csproj|solutionrelative:payrollapp_entities\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCA0E3A5-04C2-4000-ACCE-E6A79431155D}|PayrollApp_Entities\\PayrollApp.Entities.csproj|c:\\sr-training-apps\\codes\\day-5\\payrollapp\\payrollapp_entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCA0E3A5-04C2-4000-ACCE-E6A79431155D}|PayrollApp_Entities\\PayrollApp.Entities.csproj|solutionrelative:payrollapp_entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA0E3A5-04C2-4000-ACCE-E6A79431155D}|PayrollApp_Entities\\PayrollApp.Entities.csproj|c:\\sr-training-apps\\codes\\day-5\\payrollapp\\payrollapp_entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA0E3A5-04C2-4000-ACCE-E6A79431155D}|PayrollApp_Entities\\PayrollApp.Entities.csproj|solutionrelative:payrollapp_entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,27 +40,49 @@
               "RelativeDocumentMoniker": "PayrollApp.UserInterface\\Program.cs",
               "ToolTip": "C:\\SR-training-apps\\codes\\day-5\\PayrollApp\\PayrollApp.UserInterface\\Program.cs",
               "RelativeToolTip": "PayrollApp.UserInterface\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAJjMzMzP7vw0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAzczMzMwqwCkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T19:25:47.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\SR-training-apps\\codes\\day-5\\PayrollApp\\PayrollApp_Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "PayrollApp_Entities\\Employee.cs",
+              "ToolTip": "C:\\SR-training-apps\\codes\\day-5\\PayrollApp\\PayrollApp_Entities\\Employee.cs",
+              "RelativeToolTip": "PayrollApp_Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:42:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Hr.cs",
+              "DocumentMoniker": "C:\\SR-training-apps\\codes\\day-5\\PayrollApp\\PayrollApp_Entities\\Hr.cs",
+              "RelativeDocumentMoniker": "PayrollApp_Entities\\Hr.cs",
+              "ToolTip": "C:\\SR-training-apps\\codes\\day-5\\PayrollApp\\PayrollApp_Entities\\Hr.cs",
+              "RelativeToolTip": "PayrollApp_Entities\\Hr.cs",
+              "ViewState": "AgIAAAwAAABAZmZmZiYkwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:07:52.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Developer.cs",
               "DocumentMoniker": "C:\\SR-training-apps\\codes\\day-5\\PayrollApp\\PayrollApp_Entities\\Developer.cs",
               "RelativeDocumentMoniker": "PayrollApp_Entities\\Developer.cs",
               "ToolTip": "C:\\SR-training-apps\\codes\\day-5\\PayrollApp\\PayrollApp_Entities\\Developer.cs",
               "RelativeToolTip": "PayrollApp_Entities\\Developer.cs",
-              "ViewState": "AgIAADMAAACAMTMzM7MWwDoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T19:25:04.018Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
